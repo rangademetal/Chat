@@ -1,0 +1,817 @@
+Server started...
+Online users : 
+Online users : 
+
+
+
+
+
+
+
+
+
+Server started...
+
+
+
+
+Server started...
+Server is DOWN!
+Server stopping... 
+Server started...
+Error making a connection. 
+
+Server started...
+Server is DOWN!
+Server stopping... 
+Server started...
+Error making a connection. 
+
+
+
+
+
+Server started...
+Got a connection. 
+2019/04/13/ 14:10:54 2019/04/13/ 14:10:54 -> Received: [B@79bb942f
+ sare: has connected.:Chat
+Before sare added. 
+After sare added. 
+ sare: :Connect
+ Server: :Done
+Got a connection. 
+2019/04/13/ 14:11:06 2019/04/13/ 14:11:06 -> Received: [B@5f05a039
+ sarez: has connected.:Chat
+ sarez: has connected.:Chat
+Before sarez added. 
+After sarez added. 
+ sare: :Connect
+ sare: :Connect
+ sarez: :Connect
+ sarez: :Connect
+ Server: :Done
+ Server: :Done
+2019/04/13/ 14:11:09 2019/04/13/ 14:11:09 -> Received: [B@1e38aa02
+ sarez:asdasda:Chat
+ sarez:asdasda:Chat
+2019/04/13/ 14:11:15 2019/04/13/ 14:11:15 -> Received: [B@344a90f2
+ sare:hello:Chat
+ sare:hello:Chat
+2019/04/13/ 14:11:35 2019/04/13/ 14:11:35 -> Received: [B@2f6cf38a
+ sarez:has dissconnected.
+ sarez:has dissconnected.
+ sare: :Connect
+ sare: :Connect
+ Server: :Done
+ Server: :Done
+Lost a connection. 
+2019/04/13/ 14:13:49 2019/04/13/ 14:13:49 -> Received: [B@60afab8a
+ sare:has dissconnected.
+ Server: :Done
+Lost a connection. 
+
+
+Server started...
+Got a connection. 
+2019/04/15/ 23:22:05 2019/04/15/ 23:22:05 -> Received: [B@75579540
+ test: has connected.:Chat
+Before test added. 
+After test added. 
+ test: :Connect
+ Server: :Done
+2019/04/15/ 23:22:10 2019/04/15/ 23:22:10 -> Received: [B@2d1c423f
+ test:asd:Chat
+2019/04/15/ 23:22:11 2019/04/15/ 23:22:11 -> Received: [B@40c0f2a9
+ test:qweq:Chat
+2019/04/15/ 23:22:12 2019/04/15/ 23:22:12 -> Received: [B@523a563
+ test:sadasd:Chat
+2019/04/15/ 23:22:12 2019/04/15/ 23:22:12 -> Received: [B@31520fe0
+Lost a connection. 
+Got a connection. 
+2019/04/15/ 23:23:37 2019/04/15/ 23:23:37 -> Received: [B@32340c25
+ Savu: has connected.:Chat
+Before Savu added. 
+After Savu added. 
+ test: :Connect
+ Savu: :Connect
+ Server: :Done
+Got a connection. 
+2019/04/15/ 23:23:49 2019/04/15/ 23:23:49 -> Received: [B@7c06b371
+ Daniel: has connected.:Chat
+ Daniel: has connected.:Chat
+Before Daniel added. 
+After Daniel added. 
+ test: :Connect
+ test: :Connect
+ Savu: :Connect
+ Savu: :Connect
+ Daniel: :Connect
+ Daniel: :Connect
+ Server: :Done
+ Server: :Done
+2019/04/15/ 23:23:57 2019/04/15/ 23:23:57 -> Received: [B@7309061e
+ Savu:asd:Chat
+ Savu:asd:Chat
+2019/04/15/ 23:24:00 2019/04/15/ 23:24:00 -> Received: [B@42b09306
+ Savu:erteye:Chat
+ Savu:erteye:Chat
+2019/04/15/ 23:24:03 2019/04/15/ 23:24:03 -> Received: [B@3d3bb94a
+ Daniel:jhfkfjkf:Chat
+ Daniel:jhfkfjkf:Chat
+2019/04/15/ 23:24:05 2019/04/15/ 23:24:05 -> Received: [B@ccc40c6
+ Daniel:zczxczxc:Chat
+ Daniel:zczxczxc:Chat
+2019/04/15/ 23:24:07 2019/04/15/ 23:24:07 -> Received: [B@1326f951
+ Savu:has dissconnected.
+ Savu:has dissconnected.
+ test: :Connect
+ test: :Connect
+ Daniel: :Connect
+ Daniel: :Connect
+ Server: :Done
+ Server: :Done
+Lost a connection. 
+2019/04/15/ 23:24:08 2019/04/15/ 23:24:08 -> Received: [B@5d144605
+ Daniel:has dissconnected.
+ test: :Connect
+ Server: :Done
+Lost a connection. 
+
+
+Server started...
+Got a connection. 
+2019/04/17/ 02:56:31 2019/04/17/ 02:56:31 -> Received: [B@2ca7ccc5
+ Stefan: has connected.:Chat
+Before Stefan added. 
+After Stefan added. 
+ Stefan: :Connect
+ Server: :Done
+2019/04/17/ 02:56:39 2019/04/17/ 02:56:39 -> Received: [B@57e9ac92
+ Stefan:salut:Chat
+2019/04/17/ 02:56:42 2019/04/17/ 02:56:42 -> Received: [B@2494f3cc
+ Stefan:has dissconnected.
+ Server: :Done
+Lost a connection. 
+
+Server started...
+
+
+Server started...
+Server is DOWN!
+Server stopping... 
+
+Server started...
+Server is DOWN!
+Server stopping... 
+
+
+Server started...
+
+
+Server started...
+Got a connection. 
+2019/05/17/ 04:56:17 2019/05/17/ 04:56:17 -> Received: [B@23bc199a
+ scasc: has connected.:Chat
+Before scasc added. 
+After scasc added. 
+ scasc: :Connect
+ Server: :Done
+2019/05/17/ 04:56:23 2019/05/17/ 04:56:23 -> Received: [B@29ac8e0b
+ scasc:has dissconnected.
+ Server: :Done
+Lost a connection. 
+
+
+
+Server started...
+Got a connection. 
+2019/05/17/ 05:00:08 2019/05/17/ 05:00:08 -> Received: [B@3c8155af
+ seadas: has connected.:Chat
+Before seadas added. 
+After seadas added. 
+ seadas: :Connect
+ Server: :Done
+2019/05/17/ 05:00:20 2019/05/17/ 05:00:20 -> Received: [B@428800ec
+ seadas:has dissconnected.
+ Server: :Done
+Lost a connection. 
+
+Server started...
+Got a connection. 
+2019/05/17/ 05:03:12 2019/05/17/ 05:03:12 -> Received: [B@43e77483
+ sarearea: has connected.:Chat
+Before sarearea added. 
+After sarearea added. 
+ sarearea: :Connect
+ Server: :Done
+2019/05/17/ 05:03:20 2019/05/17/ 05:03:20 -> Received: [B@6ca88026
+ sarearea:asdas:Chat
+2019/05/17/ 05:03:22 2019/05/17/ 05:03:22 -> Received: [B@393e6434
+ sarearea:xczxczxc:Chat
+2019/05/17/ 05:03:23 2019/05/17/ 05:03:23 -> Received: [B@5823615a
+ sarearea:qwqweqweqw:Chat
+2019/05/17/ 05:03:31 2019/05/17/ 05:03:31 -> Received: [B@1aede221
+ sarearea:sdasdasda:Chat
+
+
+
+Server started...
+Got a connection. 
+2019/05/17/ 05:06:18 2019/05/17/ 05:06:18 -> Received: [B@55e382f1
+ sdas: has connected.:Chat
+Before sdas added. 
+After sdas added. 
+ sdas: :Connect
+ Server: :Done
+2019/05/17/ 05:06:34 2019/05/17/ 05:06:34 -> Received: [B@45c68766
+ sdas:has dissconnected.
+ Server: :Done
+Lost a connection. 
+
+Server started...
+Got a connection. 
+2019/05/17/ 05:07:50 2019/05/17/ 05:07:50 -> Received: [B@2afe8dc6
+ sdasdas: has connected.:Chat
+Before sdasdas added. 
+After sdasdas added. 
+ sdasdas: :Connect
+ Server: :Done
+2019/05/17/ 05:07:53 2019/05/17/ 05:07:53 -> Received: [B@3887068
+ sdasdas:sdasdas:Chat
+2019/05/17/ 05:07:54 2019/05/17/ 05:07:54 -> Received: [B@72fb4d12
+ sdasdas:dasdasd:Chat
+2019/05/17/ 05:07:56 2019/05/17/ 05:07:56 -> Received: [B@71d6340f
+ sdasdas:zxczxczx:Chat
+2019/05/17/ 05:07:56 2019/05/17/ 05:07:56 -> Received: [B@1c08522f
+Lost a connection. 
+
+Server started...
+Got a connection. 
+2019/05/17/ 05:08:46 2019/05/17/ 05:08:46 -> Received: [B@148df6a7
+ saczxcz: has connected.:Chat
+Before saczxcz added. 
+After saczxcz added. 
+ saczxcz: :Connect
+ Server: :Done
+2019/05/17/ 05:08:49 2019/05/17/ 05:08:49 -> Received: [B@2b87493
+ saczxcz:cxvxcvxc:Chat
+2019/05/17/ 05:08:51 2019/05/17/ 05:08:51 -> Received: [B@3ed20d06
+ saczxcz:sdfsdfsdfs:Chat
+2019/05/17/ 05:08:52 2019/05/17/ 05:08:52 -> Received: [B@101bd7da
+ saczxcz:gfhjfghjfg:Chat
+2019/05/17/ 05:08:53 2019/05/17/ 05:08:53 -> Received: [B@224f5881
+ saczxcz:urtyurtyur:Chat
+2019/05/17/ 05:08:54 2019/05/17/ 05:08:54 -> Received: [B@c6e999d
+ saczxcz:gfgjfghjfg:Chat
+2019/05/17/ 05:08:56 2019/05/17/ 05:08:56 -> Received: [B@645a4e4
+ saczxcz:565u5:Chat
+2019/05/17/ 05:08:57 2019/05/17/ 05:08:57 -> Received: [B@15e9d445
+ saczxcz:fgjfghjf:Chat
+2019/05/17/ 05:08:58 2019/05/17/ 05:08:58 -> Received: [B@537c5235
+ saczxcz:jdfjdhjdgh:Chat
+2019/05/17/ 05:09:00 2019/05/17/ 05:09:00 -> Received: [B@7dfaeac3
+ saczxcz:nvbncbcbnc:Chat
+2019/05/17/ 05:09:01 2019/05/17/ 05:09:01 -> Received: [B@199c2bdb
+ saczxcz:jgfhjfghjfg:Chat
+2019/05/17/ 05:09:03 2019/05/17/ 05:09:03 -> Received: [B@4749bd36
+ saczxcz:fgjghjfgh:Chat
+2019/05/17/ 05:09:04 2019/05/17/ 05:09:04 -> Received: [B@1652587f
+ saczxcz:hgjgfjf:Chat
+2019/05/17/ 05:09:05 2019/05/17/ 05:09:05 -> Received: [B@ed0d321
+ saczxcz:ghjfgjfgj:Chat
+2019/05/17/ 05:09:06 2019/05/17/ 05:09:06 -> Received: [B@27a49f6c
+ saczxcz:ffghjfgjgf:Chat
+2019/05/17/ 05:09:07 2019/05/17/ 05:09:07 -> Received: [B@55291f33
+ saczxcz:fghjfgjfgjgf:Chat
+2019/05/17/ 05:09:08 2019/05/17/ 05:09:08 -> Received: [B@510b9e2d
+ saczxcz:fgjfgjgfhjgfjnghn:Chat
+2019/05/17/ 05:09:09 2019/05/17/ 05:09:09 -> Received: [B@37e3cdd6
+ saczxcz:ghjgfjfghjfghj:Chat
+2019/05/17/ 05:09:10 2019/05/17/ 05:09:10 -> Received: [B@72e63f88
+ saczxcz:gfjgfhjfgjgfhjgf:Chat
+2019/05/17/ 05:09:12 2019/05/17/ 05:09:12 -> Received: [B@5cbb4f2
+ saczxcz:hjgfjgfjgfjfgjghj:Chat
+2019/05/17/ 05:09:12 2019/05/17/ 05:09:12 -> Received: [B@30100f50
+Lost a connection. 
+
+
+Server is DOWN!
+Server stopping... 
+Server started...
+Got a connection. 
+2019/05/17/ 05:15:26 2019/05/17/ 05:15:26 -> Received: [B@17f0e930
+ saadas: has connected.:Chat
+Before saadas added. 
+After saadas added. 
+ saadas: :Connect
+ Server: :Done
+
+
+
+
+
+
+
+
+Server started...
+
+
+
+Got a connection. 
+2019/06/08/ 22:00:46 2019/06/08/ 22:00:46 -> Received: [B@45296162
+ tester: has connected.:Chat
+ tester: has connected.:Chat
+Before tester added. 
+After tester added. 
+ tester: :Connect
+ tester: :Connect
+ Server: :Done
+ Server: :Done
+2019/06/08/ 22:01:11 2019/06/08/ 22:01:11 -> Received: [B@4146b59
+ tester:has dissconnected.
+ tester:has dissconnected.
+ Server: :Done
+ Server: :Done
+Lost a connection. 
+Got a connection. 
+2019/06/08/ 22:02:25 2019/06/08/ 22:02:25 -> Received: [B@2a7befd0
+ sdasd: has connected.:Chat
+ sdasd: has connected.:Chat
+Before sdasd added. 
+After sdasd added. 
+ sdasd: :Connect
+ sdasd: :Connect
+ Server: :Done
+ Server: :Done
+2019/06/08/ 22:02:27 2019/06/08/ 22:02:27 -> Received: [B@6b46e5eb
+ sdasd:has dissconnected.
+ sdasd:has dissconnected.
+ Server: :Done
+ Server: :Done
+Lost a connection. 
+
+
+Server started...
+Server is DOWN!
+Server stopping... 
+
+Server started...
+Got a connection. 
+2019/06/09/ 01:01:36 2019/06/09/ 01:01:36 -> Received: [B@75579540
+ Dragan: has connected.:Chat
+Before Dragan added. 
+After Dragan added. 
+ Dragan: :Connect
+ Server: :Done
+
+Server started...
+Got a connection. 
+2019/06/09/ 01:10:04 2019/06/09/ 01:10:04 -> Received: [B@63d36d0
+ Dragan: has connected.:Chat
+Before Dragan added. 
+After Dragan added. 
+ Dragan: :Connect
+ Server: :Done
+Got a connection. 
+2019/06/09/ 01:10:15 2019/06/09/ 01:10:15 -> Received: [B@686a6114
+ Andrei: has connected.:Chat
+ Andrei: has connected.:Chat
+Before Andrei added. 
+After Andrei added. 
+ Dragan: :Connect
+ Dragan: :Connect
+ Andrei: :Connect
+ Andrei: :Connect
+ Server: :Done
+ Server: :Done
+2019/06/09/ 01:10:21 2019/06/09/ 01:10:21 -> Received: [B@5a6ac6a6
+ Dragan:Salut:Chat
+ Dragan:Salut:Chat
+2019/06/09/ 01:10:36 2019/06/09/ 01:10:36 -> Received: [B@29576b2f
+ Andrei:Salut:Chat
+ Andrei:Salut:Chat
+
+Server started...
+Got a connection. 
+2019/06/09/ 01:11:56 2019/06/09/ 01:11:56 -> Received: [B@a1b35ad
+ test: has connected.:Chat
+Before test added. 
+After test added. 
+ test: :Connect
+ Server: :Done
+2019/06/09/ 01:12:01 2019/06/09/ 01:12:01 -> Received: [B@4a959514
+ test:asd:Chat
+
+Server started...
+Got a connection. 
+2019/06/09/ 01:13:44 2019/06/09/ 01:13:44 -> Received: [B@75a76849
+Before asd added. 
+After asd added. 
+ asd: :Connect
+ Server: :Done
+2019/06/09/ 01:13:49 2019/06/09/ 01:13:49 -> Received: [B@6a2c02d4
+ asd:tes:Chat
+2019/06/09/ 01:14:10 2019/06/09/ 01:14:10 -> Received: [B@477299cc
+ asd:has dissconnected.
+ Server: :Done
+
+
+
+Server started...
+Got a connection. 
+2019/06/09/ 01:23:57 -> Received: [B@1f79e29c
+Before asda added. 
+After asda added. 
+2019/06/09/ 01:24:00 -> Received: [B@2fb88160
+2019/06/09/ 01:24:02 -> Received: [B@427f884a
+2019/06/09/ 01:24:03 -> Received: [B@2bec49bc
+2019/06/09/ 01:24:10 -> Received: [B@3359828a
+
+Server started...
+
+
+Server started...
+Got a connection. 
+2019/06/09/ 01:28:02 -> Received: [B@1486644a
+Got a connection. 
+2019/06/09/ 01:41:23 -> Received: [B@435d650d
+2019/06/09/ 01:47:34 -> Received: [B@3de2c371
+
+
+
+
+
+Server started...
+Got a connection. 
+2019/06/10/ 21:23:54 -> Received: [B@198e5a
+Got a connection. 
+2019/06/10/ 21:24:12 -> Received: [B@1237a712
+2019/06/10/ 21:24:28 -> Received: [B@530aad29
+2019/06/10/ 21:24:29 -> Received: [B@38770738
+
+Server started...
+Got a connection. 
+2019/06/10/ 21:24:51 -> Received: [B@134afb33
+Got a connection. 
+2019/06/10/ 21:24:57 -> Received: [B@56a47a29
+2019/06/10/ 21:25:12 -> Received: [B@17997012
+2019/06/10/ 21:25:14 -> Received: [B@19764306
+
+Server started...
+Got a connection. 
+2019/06/10/ 22:01:33 -> Received: [B@3451f2be
+Got a connection. 
+2019/06/10/ 22:01:52 -> Received: [B@42cb6b95
+2019/06/10/ 22:02:00 -> Received: [B@4428f0a9
+2019/06/10/ 22:02:01 -> Received: [B@3f661ae
+
+Server started...
+Error making a connection. 
+Server started...
+Error making a connection. 
+Server is DOWN!
+Server stopping... 
+
+Server started...
+Got a connection. 
+2019/06/10/ 22:05:24 2019/06/10/ 22:05:24 -> Received: [B@5324ec11
+Before asd added. 
+After asd added. 
+ asd: :Connect
+ Server: :Done
+Got a connection. 
+2019/06/10/ 22:05:33 2019/06/10/ 22:05:33 -> Received: [B@d52b269
+Before zxc added. 
+After zxc added. 
+ asd: :Connect
+ asd: :Connect
+ zxc: :Connect
+ zxc: :Connect
+ Server: :Done
+ Server: :Done
+2019/06/10/ 22:05:41 2019/06/10/ 22:05:41 -> Received: [B@4c6fb852
+ zxc:asdf:Chat
+ zxc:asdf:Chat
+2019/06/10/ 22:05:44 2019/06/10/ 22:05:44 -> Received: [B@1af32624
+ asd:sdas:Chat
+ asd:sdas:Chat
+2019/06/10/ 22:06:12 2019/06/10/ 22:06:12 -> Received: [B@41265014
+ asd:has dissconnected.
+ asd:has dissconnected.
+ zxc: :Connect
+ zxc: :Connect
+ Server: :Done
+ Server: :Done
+2019/06/10/ 22:06:13 2019/06/10/ 22:06:13 -> Received: [B@7d69f485
+ zxc:has dissconnected.
+ zxc:has dissconnected.
+ Server: :Done
+ Server: :Done
+Got a connection. 
+2019/06/10/ 22:06:42 2019/06/10/ 22:06:42 -> Received: [B@699e535
+Before asda added. 
+After asda added. 
+ asda: :Connect
+ asda: :Connect
+ asda: :Connect
+ Server: :Done
+ Server: :Done
+ Server: :Done
+2019/06/10/ 22:06:47 2019/06/10/ 22:06:47 -> Received: [B@47a4ef0e
+ asda:sdasda:Chat
+ asda:sdasda:Chat
+ asda:sdasda:Chat
+Got a connection. 
+2019/06/10/ 22:06:56 2019/06/10/ 22:06:56 -> Received: [B@15ac28ae
+Before weq added. 
+After weq added. 
+ asda: :Connect
+ asda: :Connect
+ asda: :Connect
+ asda: :Connect
+ weq: :Connect
+ weq: :Connect
+ weq: :Connect
+ weq: :Connect
+ Server: :Done
+ Server: :Done
+ Server: :Done
+ Server: :Done
+2019/06/10/ 22:06:59 2019/06/10/ 22:06:59 -> Received: [B@54912295
+ weq:has dissconnected.
+ weq:has dissconnected.
+ weq:has dissconnected.
+ weq:has dissconnected.
+ asda: :Connect
+ asda: :Connect
+ asda: :Connect
+ asda: :Connect
+ Server: :Done
+ Server: :Done
+ Server: :Done
+ Server: :Done
+Lost a connection. 
+
+Server started...
+Got a connection. 
+2019/06/10/ 22:08:21 2019/06/10/ 22:08:21 -> Received: [B@642f287b
+Before Marcel added. 
+After Marcel added. 
+ Marcel: :Connect
+ Server: :Done
+Got a connection. 
+2019/06/10/ 22:08:45 2019/06/10/ 22:08:45 -> Received: [B@490e6860
+Before asd added. 
+After asd added. 
+ Marcel: :Connect
+ Marcel: :Connect
+ asd: :Connect
+ asd: :Connect
+ Server: :Done
+ Server: :Done
+2019/06/10/ 22:08:52 2019/06/10/ 22:08:52 -> Received: [B@833625b
+ asd:has dissconnected.
+ asd:has dissconnected.
+ Marcel: :Connect
+ Marcel: :Connect
+ Server: :Done
+ Server: :Done
+2019/06/10/ 22:08:53 2019/06/10/ 22:08:53 -> Received: [B@1338456e
+ Marcel:has dissconnected.
+ Marcel:has dissconnected.
+ Server: :Done
+ Server: :Done
+
+Server started...
+Got a connection. 
+2019/06/10/ 22:21:34 2019/06/10/ 22:21:34 -> Received: [B@252cea23
+Before asda added. 
+After asda added. 
+ asda: :Connect
+ Server: :Done
+Got a connection. 
+2019/06/10/ 22:21:39 2019/06/10/ 22:21:39 -> Received: [B@4599e2c3
+Before zczxcz added. 
+After zczxcz added. 
+ asda: :Connect
+ asda: :Connect
+ zczxcz: :Connect
+ zczxcz: :Connect
+ Server: :Done
+ Server: :Done
+2019/06/10/ 22:21:44 2019/06/10/ 22:21:44 -> Received: [B@4a4e8f8
+ zczxcz:has dissconnected.
+ zczxcz:has dissconnected.
+ asda: :Connect
+ asda: :Connect
+ Server: :Done
+ Server: :Done
+2019/06/10/ 22:21:45 2019/06/10/ 22:21:45 -> Received: [B@7f11345e
+ asda:has dissconnected.
+ asda:has dissconnected.
+ Server: :Done
+ Server: :Done
+
+Server started...
+Server started...
+Error making a connection. 
+Got a connection. 
+2019/06/10/ 22:30:52 2019/06/10/ 22:30:52 -> Received: [B@57b3a584
+ asd: has connected.:Chat
+Before asd added. 
+After asd added. 
+ asd: :Connect
+ Server: :Done
+Got a connection. 
+2019/06/10/ 22:31:00 2019/06/10/ 22:31:00 -> Received: [B@6769c0a2
+ zxc: has connected.:Chat
+ zxc: has connected.:Chat
+Before zxc added. 
+After zxc added. 
+ asd: :Connect
+ asd: :Connect
+ zxc: :Connect
+ zxc: :Connect
+ Server: :Done
+ Server: :Done
+2019/06/10/ 22:31:03 2019/06/10/ 22:31:03 -> Received: [B@70c9b262
+ asd:has dissconnected.
+ asd:has dissconnected.
+ zxc: :Connect
+ zxc: :Connect
+ Server: :Done
+ Server: :Done
+Lost a connection. 
+2019/06/10/ 22:31:04 2019/06/10/ 22:31:04 -> Received: [B@2654ca99
+ zxc:has dissconnected.
+ Server: :Done
+Lost a connection. 
+
+Server started...
+Server started...
+Error making a connection. 
+Got a connection. 
+2019/06/11/ 08:47:11 2019/06/11/ 08:47:11 -> Received: [B@6edf9c80
+ Daniel: has connected.:Chat
+Before Daniel added. 
+After Daniel added. 
+ Daniel: :Connect
+ Server: :Done
+Got a connection. 
+2019/06/11/ 08:47:18 2019/06/11/ 08:47:18 -> Received: [B@6b771c92
+ Savu: has connected.:Chat
+ Savu: has connected.:Chat
+Before Savu added. 
+After Savu added. 
+ Daniel: :Connect
+ Daniel: :Connect
+ Savu: :Connect
+ Savu: :Connect
+ Server: :Done
+ Server: :Done
+2019/06/11/ 08:47:52 2019/06/11/ 08:47:52 -> Received: [B@657736b4
+ Daniel:salut:Chat
+ Daniel:salut:Chat
+2019/06/11/ 08:47:56 2019/06/11/ 08:47:56 -> Received: [B@2a4a16a9
+ Savu:salut:Chat
+ Savu:salut:Chat
+2019/06/11/ 09:34:03 2019/06/11/ 09:34:03 -> Received: [B@1b2a19f9
+ Savu:has dissconnected.
+ Savu:has dissconnected.
+ Daniel: :Connect
+ Daniel: :Connect
+ Server: :Done
+ Server: :Done
+Lost a connection. 
+2019/06/11/ 09:34:06 2019/06/11/ 09:34:06 -> Received: [B@3ec061e7
+ Daniel:has dissconnected.
+ Server: :Done
+Lost a connection. 
+
+Server started...
+Got a connection. 
+2019/06/28/ 23:05:25 2019/06/28/ 23:05:25 -> Received: [B@7fadefe5
+ xczxcz: has connected.:Chat
+Before xczxcz added. 
+After xczxcz added. 
+ xczxcz: :Connect
+ Server: :Done
+2019/06/28/ 23:05:30 2019/06/28/ 23:05:30 -> Received: [B@30d0483a
+ xczxcz:sada:Chat
+2019/06/28/ 23:05:31 2019/06/28/ 23:05:31 -> Received: [B@1f73c7d8
+ xczxcz:asdas:Chat
+2019/06/28/ 23:05:31 2019/06/28/ 23:05:31 -> Received: [B@6e21f4b1
+Lost a connection. 
+
+Server started...
+
+Server started...
+
+Server is DOWN!
+Server stopping... 
+
+Server is DOWN!
+
+Got a connection. 
+2019/06/28/ 23:13:35  asd: has connected.:Chat
+Before asd added. 
+After asd added. 
+ asd: :Connect
+ Server: :Done
+2019/06/28/ 23:13:41  asd:qws:Chat
+2019/06/28/ 23:13:43  asd:sdasdad:Chat
+
+
+Got a connection. 
+2019/07/05/ 22:55:49  sdasd: has connected.:Chat
+Before sdasd added. 
+After sdasd added. 
+ sdasd: :Connect
+ Server: :Done
+2019/07/05/ 22:56:02  sdasd:hello:Chat
+2019/07/05/ 22:56:08  sdasd:has dissconnected.
+ Server: :Done
+Lost a connection. 
+
+
+Got a connection. 
+2019/07/05/ 22:57:08  asda: has connected.:Chat
+Before asda added. 
+After asda added. 
+ asda: :Connect
+ Server: :Done
+2019/07/05/ 22:57:11  asda:asda:Chat
+2019/07/05/ 22:57:11 Lost a connection. 
+
+Got a connection. 
+2019/07/08/ 08:11:55  sdasd: has connected.:Chat
+Before sdasd added. 
+After sdasd added. 
+ sdasd: :Connect
+ Server: :Done
+2019/07/08/ 08:12:02  sdasd:salut:Chat
+Got a connection. 
+2019/07/08/ 08:12:11  DAn: has connected.:Chat
+ DAn: has connected.:Chat
+Before DAn added. 
+After DAn added. 
+ sdasd: :Connect
+ sdasd: :Connect
+ DAn: :Connect
+ DAn: :Connect
+ Server: :Done
+ Server: :Done
+2019/07/08/ 08:12:15  DAn:salut:Chat
+ DAn:salut:Chat
+2019/07/08/ 08:12:18  sdasd:asd:Chat
+ sdasd:asd:Chat
+2019/07/08/ 08:12:21  DAn:has dissconnected.
+ DAn:has dissconnected.
+ sdasd: :Connect
+ sdasd: :Connect
+ Server: :Done
+ Server: :Done
+Lost a connection. 
+
+
+Server is DOWN!
+
+Got a connection. 
+Lost a connection. 
+Got a connection. 
+Lost a connection. 
+
+Got a connection. 
+2020/02/11/ 18:49:20 as: has connected.:Chat
+Before as added. 
+After as added. 
+as: :Connect
+Server: :Done
+2020/02/11/ 18:49:24 as:asd:Chat
+2020/02/11/ 18:49:27 as:ASDA:Chat
+Got a connection. 
+2020/02/11/ 18:49:34 ZAR: has connected.:Chat
+ZAR: has connected.:Chat
+Before ZAR added. 
+After ZAR added. 
+as: :Connect
+as: :Connect
+ZAR: :Connect
+ZAR: :Connect
+Server: :Done
+Server: :Done
+2020/02/11/ 18:49:37 ZAR:ASDA:Chat
+ZAR:ASDA:Chat
+2020/02/11/ 18:49:40 as:XCZ:Chat
+as:XCZ:Chat
+2020/02/11/ 18:49:42 as:has dissconnected.
+as:has dissconnected.
+ZAR: :Connect
+ZAR: :Connect
+Server: :Done
+Server: :Done
+Lost a connection. 
+2020/02/11/ 18:49:44 ZAR:has dissconnected.
+Server: :Done
+Lost a connection. 
+

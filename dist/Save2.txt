@@ -1,0 +1,12 @@
+
+Got a connection. 
+2020/02/11/ 21:09:39 sadads: has connected.:Chat
+Before sadads added. 
+After sadads added. 
+sadads: :Connect
+Server: :Done
+2020/02/11/ 21:09:42 sadads:sdasd:Chat
+2020/02/11/ 21:09:45 sadads:has dissconnected.
+Server: :Done
+Lost a connection. 
+
